@@ -1,3 +1,3 @@
 # mail
 
-i want to update a new file!
+I want to update a new file!
